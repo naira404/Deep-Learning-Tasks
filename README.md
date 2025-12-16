@@ -7,9 +7,9 @@ Each task focuses on a specific concept in Neural Networks, CNNs, NLP, RNNs, Seq
 
 ---
 
-## 📌 Tasks Overview
+##  Tasks Overview
 
-### 🔹 Task 1: Neural Networks
+###  Task 1: Neural Networks
 - **Rent Dataset** (Regression)
 - **Stroke Dataset** (Classification)
   - Binary classification using **Sigmoid**
@@ -18,7 +18,7 @@ Each task focuses on a specific concept in Neural Networks, CNNs, NLP, RNNs, Seq
 
 ---
 
-### 🔹 Task 2: CNN & Transfer Learning
+###  Task 2: CNN & Transfer Learning
 - Dataset: CT, CXR, and Cough Sound
 - Implement:
   - Early Fusion
@@ -27,7 +27,7 @@ Each task focuses on a specific concept in Neural Networks, CNNs, NLP, RNNs, Seq
 
 ---
 
-### 🔹 Task 3: NLP Preprocessing
+###  Task 3: NLP Preprocessing
 - Dataset: Arabic Sentiment Twitter Corpus
 - Applied techniques:
   - Data Cleaning
@@ -38,20 +38,20 @@ Each task focuses on a specific concept in Neural Networks, CNNs, NLP, RNNs, Seq
 
 ---
 
-### 🔹 Task 4: RNN, LSTM, GRU, BiLSTM
+###  Task 4: RNN, LSTM, GRU, BiLSTM
 - Dataset: Arabic Sentiment Twitter Corpus
 - Reused preprocessing from Task 3
 - Built models with accuracy exceeding **90%** (based on team requirements)
 
 ---
 
-### 🔹 Task 5: Seq2Seq (Optional)
+###  Task 5: Seq2Seq (Optional)
 - Sign Language Translation
 - English to Indian Language Translation
 
 ---
 
-### 🔹 Task 6: Autoencoders & GANs
+###  Task 6: Autoencoders & GANs
 - Dataset: 50K Celebrity Faces
 - Implemented:
   - Autoencoder
@@ -61,32 +61,32 @@ Each task focuses on a specific concept in Neural Networks, CNNs, NLP, RNNs, Seq
 
 ## Task 7: Hugging Face Transformers
 
-### 🤗 Overview
+###  Overview
 This task focuses on using **Hugging Face Transformers** for building and fine-tuning NLP models.
 
-### 🔗 Notebook Reference
+###  Notebook Reference
 - Original Colab Notebook:
   https://colab.research.google.com/drive/14U7co7nwzg90L6Gs4ioU0z8ORhaC4z16
 
-### 🧠 Implementations
+###  Implementations
 - Loading pretrained transformer models
 - Tokenization using Hugging Face Tokenizers
 - Fine-tuning a transformer model
 - Model evaluation and performance metrics
 
-### 🛠 Libraries
+### Libraries
 - transformers
 - datasets
 - torch
 - scikit-learn
 
-### 📌 Notes
+###  Notes
 - Dataset is loaded directly from Hugging Face or external sources
 - Models are pretrained and fine-tuned for the task
 
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - PyTorch / TensorFlow / Keras
 - NumPy, Pandas, Matplotlib
@@ -95,7 +95,7 @@ This task focuses on using **Hugging Face Transformers** for building and fine-t
 
 ---
 
-## 📂 Notes
+##  Notes
 - Datasets are **not uploaded** due to size limitations.
 - Dataset links are provided inside each task folder.
 
